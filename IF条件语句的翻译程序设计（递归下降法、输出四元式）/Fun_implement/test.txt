@@ -1,0 +1,10 @@
+IF (a<b) THEN
+IF (c>d) THEN
+x=f;
+ELSE
+x=t;
+ELSE
+IF (b>y) THEN
+x=y;
+ELSE
+x=r;

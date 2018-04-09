@@ -1,0 +1,27 @@
+if	1 
+(	3 
+a1	11 
+>=	6 
+b	11 
+)	4 
+then	2 
+if	1 
+(	3 
+c	11 
+<	8 
+5.1	12 
+)	4 
+then	2 
+x	11 
+=	10 
+1.0	12 
+*	13 
+e	11 
+
+	T0:if a1>=b goto T1
+	T2:goto T6
+	T1:if c<5.1 goto T3
+	T4:goto T6
+	T3:S0:=1.0*e
+	T5:x£º=S0
+	T6:-
